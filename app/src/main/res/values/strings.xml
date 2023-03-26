@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="txt_judul">Kalkulator</string>
+    <string name="txt_bil1">Masukan Bilangan Pertama</string>
+    <string name="txt_bil2">Masukan Bilangan Kedua</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_tambah">+</string>
+    <string name="btn_kurang">-</string>
+    <string name="btn_kali">*</string>
+    <string name="btn_bagi">/</string>
+    <string name="btn_modulus">%</string>
+    <string name="hasil">Hasil</string>
+    <string name="bil1_invalid">Bilangan Pertama tidak boleh kosong</string>
+    <string name="bil2_invalid">Bilangan Kedua tidak boleh kosong</string>
+    <string name="clear_invalid">Tidak ada yang perlu dihapus</string>
+</resources>
